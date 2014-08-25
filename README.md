@@ -1,4 +1,4 @@
 github_repom
 ============
 
-Első GitHub kódtáram
+Első GitHub kódtáram (1.0)
